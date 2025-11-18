@@ -1,5 +1,5 @@
 """
-SonarQube Test Samples Package
+SonarQube Test Samples - Source Files
 This package contains intentional bugs, code smells, and vulnerabilities for testing SonarQube analysis.
 """
 

@@ -2,3 +2,10 @@
 .idea/
 *.pyc
 __pycache__/
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+*.cover
+.hypothesis/
